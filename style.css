@@ -1,0 +1,30 @@
+/* 기초 세팅 */
+ <style)
+
+			img {display: block;margin: auto}
+			#wrap {width: 1280px; margin: 0 auto;}
+
+			#header img{width: 100%; height: 127px; float: left;}
+			
+
+			#gray img {width: 100%; height: 595px; float: left;}
+
+			#blue img {width: 956px; height: 1158px; float: left;}
+
+			#s img {width: 100% height: 3539px; float: left;}
+
+
+
+			#u img {width: 1031px; height: 397px; float: left; margin-bottom: 30px}
+
+			#vv img {width: 100% height: 227px; float: left; }
+
+
+
+
+
+			#wrap {display: block; clear: both; content: "";}
+
+
+
+		</style>
